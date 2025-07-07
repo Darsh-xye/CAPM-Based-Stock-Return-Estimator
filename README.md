@@ -55,7 +55,11 @@ The **beta coefficient** is defined as:
 
 ## 🔍 Sample Output
 Stock: AAPL
+
 Beta: 1.199
+
 Market Return (Annual): 16.34%
+
 Expected Return (CAPM): 18.79%
+
 Actual Return (Historical): 36.53%
